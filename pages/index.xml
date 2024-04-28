@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on 書山有路</title>
-    <link>http://localhost:53341/pages/</link>
+    <link>http://localhost:55172/pages/</link>
     <description>Recent content in Pages on 書山有路</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-Hant</language><atom:link href="http://localhost:53341/pages/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-Hant</language><atom:link href="http://localhost:55172/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:53341/pages/about/</link>
+      <link>http://localhost:55172/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53341/pages/about/</guid>
+      <guid>http://localhost:55172/pages/about/</guid>
       
       <description>只做嚮導，不做大師。
 🧑‍💻 @echim2021 📚 閱讀筆記｜💡觀點分享｜📈個人成長 近期書山： 生產力、快樂經濟、城市建築 </description>
