@@ -2,42 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://echim2016.github.io/path.to.books/posts/240427/</loc>
+    <loc>http://localhost:53059/path.to.books/posts/240427/</loc>
     <lastmod>2024-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://echim2016.github.io/path.to.books/</loc>
+    <loc>http://localhost:53059/path.to.books/posts/240428/</loc>
     <lastmod>2024-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://echim2016.github.io/path.to.books/posts/</loc>
+    <loc>http://localhost:53059/path.to.books/</loc>
     <lastmod>2024-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://echim2016.github.io/path.to.books/posts/240426/</loc>
+    <loc>http://localhost:53059/path.to.books/posts/</loc>
+    <lastmod>2024-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:53059/path.to.books/posts/240426/</loc>
     <lastmod>2024-04-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://echim2016.github.io/path.to.books/posts/240425/</loc>
+    <loc>http://localhost:53059/path.to.books/posts/240425/</loc>
     <lastmod>2024-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://echim2016.github.io/path.to.books/posts/240424/</loc>
+    <loc>http://localhost:53059/path.to.books/posts/240424/</loc>
     <lastmod>2024-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://echim2016.github.io/path.to.books/posts/240423/</loc>
+    <loc>http://localhost:53059/path.to.books/posts/240423/</loc>
     <lastmod>2024-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://echim2016.github.io/path.to.books/posts/240422-1/</loc>
+    <loc>http://localhost:53059/path.to.books/posts/240422-1/</loc>
     <lastmod>2024-04-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://echim2016.github.io/path.to.books/posts/240422-2/</loc>
+    <loc>http://localhost:53059/path.to.books/posts/240422-2/</loc>
     <lastmod>2024-04-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://echim2016.github.io/path.to.books/posts/240421/</loc>
+    <loc>http://localhost:53059/path.to.books/posts/240421/</loc>
     <lastmod>2024-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://echim2016.github.io/path.to.books/pages/about/</loc>
+    <loc>http://localhost:53059/path.to.books/pages/about/</loc>
   </url><url>
-    <loc>https://echim2016.github.io/path.to.books/categories/</loc>
+    <loc>http://localhost:53059/path.to.books/categories/</loc>
   </url><url>
-    <loc>https://echim2016.github.io/path.to.books/pages/</loc>
+    <loc>http://localhost:53059/path.to.books/pages/</loc>
   </url><url>
-    <loc>https://echim2016.github.io/path.to.books/tags/</loc>
+    <loc>http://localhost:53059/path.to.books/tags/</loc>
   </url>
 </urlset>
