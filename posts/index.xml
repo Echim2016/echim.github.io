@@ -2,17 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 書山有路</title>
-    <link>http://localhost:53059/path.to.books/posts/</link>
+    <link>http://localhost:60316/path.to.books/posts/</link>
     <description>Recent content in Posts on 書山有路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hant</language>
-    <lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:53059/path.to.books/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:60316/path.to.books/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>10｜我們不該活於錯信</title>
+      <link>http://localhost:60316/path.to.books/posts/240429/</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:60316/path.to.books/posts/240429/</guid>
+      
+      <description>我們不該活於錯信
+前陣子與大家分享到「個人主義」，在這個時代，我們追求快樂、追求自我掌握、也追求個人圓滿，這些都為了讓自己過得更「自由」。
+當我們充分了解自己的自由之後，會面對 #沙特 所謂「存在的焦慮」。
+因為這個時候，一切皆非命定，你需要全盤為自己做主。沙特替這種不自由的束縛命名為「錯信」。
+自由對你而言，是一種存在的焦慮嗎？</description>
+      
+    </item>
+    
+    <item>
+      <title>09｜讀書無數，約等於閱人無數</title>
+      <link>http://localhost:60316/path.to.books/posts/240428/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:60316/path.to.books/posts/240428/</guid>
+      
+      <description>讀書無數，其實就約等於閱人無數
+這是我在 #閱讀的方法 這本書裡很喜歡的一個詮釋。
+人生百態、各有理由，當你能去同理書中不同故事主角的立場，在遭遇到類似情境時，你便能知道不同的後果，也就能做出更好的決定。
+所以，閱讀除了幫助個人成長、也能幫你「做出決策」，幫助你同理他人處境、也讓你知道「原來還能這麼做」。
+你上一次作出重要決策的經驗是什麼？你依據了什麼來決定？</description>
+      
+    </item>
+    
     <item>
       <title>08｜讓閱讀變成一場與自己的約會</title>
-      <link>http://localhost:53059/path.to.books/posts/240427/</link>
+      <link>http://localhost:60316/path.to.books/posts/240427/</link>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53059/path.to.books/posts/240427/</guid>
+      <guid>http://localhost:60316/path.to.books/posts/240427/</guid>
       
       <description>讓 #閱讀 變成一場與自己的約會
 曾有人問過我何以維持看書的習慣，我自己有一個很喜歡的方式是：讓「取得書籍」變成一場讓人期待的約會。
@@ -25,26 +55,11 @@
     </item>
     
     <item>
-      <title>09｜讀書無數，約等於閱人無數</title>
-      <link>http://localhost:53059/path.to.books/posts/240428/</link>
-      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:53059/path.to.books/posts/240428/</guid>
-      
-      <description>讀書無數，其實就約等於閱人無數
-這是我在 #閱讀的方法 這本書裡很喜歡的一個詮釋。
-人生百態、各有理由，當你能去同理書中不同故事主角的立場，在遭遇到類似情境時，你便能知道不同的後果，也就能做出更好的決定。
-所以，閱讀除了幫助個人成長、也能幫你「做出決策」，幫助你同理他人處境、也讓你知道「原來還能這麼做」。
-你上一次作出重要決策的經驗是什麼？你依據了什麼來決定？</description>
-      
-    </item>
-    
-    <item>
       <title>07｜關於紀律與自我掌握感</title>
-      <link>http://localhost:53059/path.to.books/posts/240426/</link>
+      <link>http://localhost:60316/path.to.books/posts/240426/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53059/path.to.books/posts/240426/</guid>
+      <guid>http://localhost:60316/path.to.books/posts/240426/</guid>
       
       <description>關於 #紀律 帶給人的自我掌握感
 有紀律這件事情似乎是個正向的稱讚，投資有紀律可以帶來更多獲益、時間管理有紀律可以有更高的生產力、運動習慣有紀律可以維持更好的體能狀態。
@@ -59,10 +74,10 @@
     
     <item>
       <title>06｜關於孤獨</title>
-      <link>http://localhost:53059/path.to.books/posts/240425/</link>
+      <link>http://localhost:60316/path.to.books/posts/240425/</link>
       <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53059/path.to.books/posts/240425/</guid>
+      <guid>http://localhost:60316/path.to.books/posts/240425/</guid>
       
       <description>我們渴望認同，卻也享受孤獨帶來的權力
 在探索個人主義的主題時，我想起年初看到一篇談論「孤獨」的文章。
@@ -76,10 +91,10 @@
     
     <item>
       <title>05｜關於個人主義時代</title>
-      <link>http://localhost:53059/path.to.books/posts/240424/</link>
+      <link>http://localhost:60316/path.to.books/posts/240424/</link>
       <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53059/path.to.books/posts/240424/</guid>
+      <guid>http://localhost:60316/path.to.books/posts/240424/</guid>
       
       <description>現在是注重個體大於群體的個人主義時代。
 從二十一世紀以來，所有人突然對「快樂」大感興趣，根據這些準則，每個個體都是（也應該是）自由的、有謀略的、負責的、自主的，他能夠任意掌控自己的心理狀態，實驗自己的興趣，以及追求人人與生俱來的人生目標：獲得想要的幸福快樂。
@@ -92,10 +107,10 @@
     
     <item>
       <title>04｜關於增強快樂經驗</title>
-      <link>http://localhost:53059/path.to.books/posts/240423/</link>
+      <link>http://localhost:60316/path.to.books/posts/240423/</link>
       <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53059/path.to.books/posts/240423/</guid>
+      <guid>http://localhost:60316/path.to.books/posts/240423/</guid>
       
       <description>快樂的經驗可以增強或減弱，「表達」和「回顧」都是一個簡單的好方法
 如果說快樂、愉悅的情緒可以促進生產力，我們可以如何善用現有的快樂經驗？
@@ -107,10 +122,10 @@
     
     <item>
       <title>02｜關於愉悅生產力</title>
-      <link>http://localhost:53059/path.to.books/posts/240422-1/</link>
+      <link>http://localhost:60316/path.to.books/posts/240422-1/</link>
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53059/path.to.books/posts/240422-1/</guid>
+      <guid>http://localhost:60316/path.to.books/posts/240422-1/</guid>
       
       <description>#高效原力 書中愉悅生產力的觀點建立在「感覺愉悅 -&amp;gt; 產生能量 -&amp;gt; 激發生產力」的基礎之上。
 這其中包含了一個「抵銷假說」，也就是正向情緒可以抵銷壓力和其他負面情緒的影響。
@@ -123,10 +138,10 @@
     
     <item>
       <title>03｜關於飲食提升生產力</title>
-      <link>http://localhost:53059/path.to.books/posts/240422-2/</link>
+      <link>http://localhost:60316/path.to.books/posts/240422-2/</link>
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53059/path.to.books/posts/240422-2/</guid>
+      <guid>http://localhost:60316/path.to.books/posts/240422-2/</guid>
       
       <description>在追求工作生產力的同時，你想過從「飲食」出發嗎？
 任何的工作生產力方法，都必須建立在良好的身體狀態之下，好的身體素質，讓你有更多能量、以及更健康的心態能面對複雜的挑戰。
@@ -140,10 +155,10 @@
     
     <item>
       <title>01｜關於第一座山：生產力</title>
-      <link>http://localhost:53059/path.to.books/posts/240421/</link>
+      <link>http://localhost:60316/path.to.books/posts/240421/</link>
       <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53059/path.to.books/posts/240421/</guid>
+      <guid>http://localhost:60316/path.to.books/posts/240421/</guid>
       
       <description>最近因為 #高效原力 又開始重新關注「生產力」這個主題。
 喜歡這本書，是因為對於「愉悅心態激發生產力」很有共鳴。想起那些過去曾讓我進入心流、感到自我突破的大小專案，都是在保持心情愉悅的情況下完成的，才讀完第一章，就讓我對生產力有了一個新的假設： 「比起各種維持工作效能的方法，維持心情愉悅才是更重要的。」
