@@ -2,17 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 書山有路</title>
-    <link>http://localhost:54027/path.to.books/posts/</link>
+    <link>http://localhost:56613/path.to.books/posts/</link>
     <description>Recent content in Posts on 書山有路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hant</language>
-    <lastBuildDate>Thu, 02 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:54027/path.to.books/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:56613/path.to.books/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>17｜佛洛伊德的幽默心理機制</title>
+      <link>http://localhost:56613/path.to.books/posts/240506/</link>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:56613/path.to.books/posts/240506/</guid>
+      
+      <description>佛洛伊德的幽默心理機制
+佛洛依德認為：幽默是一種心理生存機制，笑話則是能使遭障礙擋道的某個本能直覺（色欲或敵意）獲得滿足。意思是，笑話一如夢境，可以繞過威權，滿足願望。
+那些笑著笑著就哭了的情境，是否都代表著我們的願望沒有被滿足呢？</description>
+      
+    </item>
+    
+    <item>
+      <title>16｜用「專案」來驅動閱讀習慣</title>
+      <link>http://localhost:56613/path.to.books/posts/240505/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:56613/path.to.books/posts/240505/</guid>
+      
+      <description>用「專案」來驅動閱讀習慣
+培養閱讀習慣的方式和流派有百百種，我自己喜歡的策略是：「用專案來驅動閱讀」。
+最早有這個心態，其實是來自於做筆記，許多人追求筆記工具，例如卡片盒筆記法、Notion 模板，費盡心力鑽研許多數位生產力工具，最後卻是無疾而終。原因很單純，就是我們不會想為了做筆記而做筆記。
+你為什麼想做筆記？是為了做學術研究？為了工作上的時程管理？還是為了筆記自身的狀態來維持每天的能量？其實，這些有目的的專案才是真正驅動你的動機來源。
+我的筆記方式因此轉向，不追求什麼複雜的筆記功能，就是把我這段時間的專案給定義清楚，然後用你熟悉或者舒服的筆記軟體功能來做紀錄，以最近為例，這些專案包含：「閱讀與學習」、「生產力」、「建立個人事業」等等。
+閱讀對我而言，也是一樣的心法，我的專案就是最近我想解決或者探索的領域，如同這個帳號所說過的，最近我想探索三個主題，這就是我的專案，任何跟這件事情有關的書籍、文章、影片、或經驗分享，都是我可以閱讀與筆記的內容。
+當我轉為用這個方式來閱讀，我就可以更快找到我會有興趣的書、也會更有動力去找書來讀，因為我知道，這些內容終將回歸到我的「專案」，讓我對這個主題有更深的學習與理解。</description>
+      
+    </item>
+    
+    <item>
+      <title>15｜旅行讓個人關注的焦點回到自己</title>
+      <link>http://localhost:56613/path.to.books/posts/240504/</link>
+      <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:56613/path.to.books/posts/240504/</guid>
+      
+      <description>旅行讓個人關注的焦點回到自己
+最近在不同書裡，總能看到不同作者對於「旅行」的詮釋，不管是跳脫日常以激發靈感、或者是親近自然來療癒身心，每種旅遊方式，都隱喻了你的個人設定，定義出你與旅行的關係。
+週末要和朋友們去日月潭走走，早上的閱讀時間，用來整理了一些對這趟旅程的期待，其中一個是：「希望把個人關注的焦點回到自己」。
+平時我們常花很多心力在其他人身上，卻一直沒有關照自已，對我來說，能藉機在生活裡撐開一個空間，讓焦點可以暫時回到自己身上，那就是可以出發的理由。
+你的旅行的意義是什麼？</description>
+      
+    </item>
+    
+    <item>
+      <title>14｜緩慢的交通是生氣活力城市的指標</title>
+      <link>http://localhost:56613/path.to.books/posts/240503/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:56613/path.to.books/posts/240503/</guid>
+      
+      <description>緩慢的交通是生氣活力城市的指標
+你想過空間尺度如何影響人與人的互動嗎？在 Jan Gehl 的「建築之間」裡，我換上了全新的視角。
+100 公尺，大約是人可以看出人的輪廓的距離，又可以被稱為社交的視域。5 到 15 公里/小時，是大部分器官可以有效處理接收到的細節的速度。
+城市的一部分是道路，當道路上的移動速度愈快，為了使移動中的人們，能夠辨識出建築的標誌，巨大的符號或看板就成了必須。
+我很喜歡書中另一個觀點：「活動的存在是因為有活動的存在」。
+因此，較高的活動強度是藉由更多的人使用公共空間，以及鼓勵個人較長的停留時間來激發和維持的。
+如果移動的速度從每小時 60 公里減至 6 公里，每個人停留在彼此視域的時間會有十倍之久，當汽車離住家門前愈遠，活動發生和碰面的機會就會愈多，也因此，緩慢的交通是生氣活力城市的指標。
+速度常被認為效率，但也會遺失細節，你喜歡用什麼速度在城市移動？</description>
+      
+    </item>
+    
     <item>
       <title>13｜建築是容納人生活的場所</title>
-      <link>http://localhost:54027/path.to.books/posts/240502/</link>
+      <link>http://localhost:56613/path.to.books/posts/240502/</link>
       <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:54027/path.to.books/posts/240502/</guid>
+      <guid>http://localhost:56613/path.to.books/posts/240502/</guid>
       
       <description>建築是容納人生活的場所
 雨果說：建築是凝固的史詩，在宗教建築裡，人們透過繪畫、雕刻、文字、藝術、裝飾、造型來紀錄當代的思想，這世上很少有如此大的量體，能夠屹立上百年，同時記錄著時代的痕跡。
@@ -24,10 +87,10 @@
     
     <item>
       <title>12｜拉圖雷特修道院</title>
-      <link>http://localhost:54027/path.to.books/posts/240501/</link>
+      <link>http://localhost:56613/path.to.books/posts/240501/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:54027/path.to.books/posts/240501/</guid>
+      <guid>http://localhost:56613/path.to.books/posts/240501/</guid>
       
       <description>拉圖雷特修道院：在靜謐中安置一百個身軀與一百個心靈
 說到修道院，讓我想起知名建築師 #柯比意 在 1950 年代設計的建築：拉圖雷特修道院。
@@ -43,10 +106,10 @@ Ref: FAM</description>
     
     <item>
       <title>11｜修道主義的生活型態</title>
-      <link>http://localhost:54027/path.to.books/posts/240430/</link>
+      <link>http://localhost:56613/path.to.books/posts/240430/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:54027/path.to.books/posts/240430/</guid>
+      <guid>http://localhost:56613/path.to.books/posts/240430/</guid>
       
       <description>修道主義兼具個人與群體的生活型態
 在個人主義為主流的當代，已經愈來愈難想像「#群體生活」的感覺。
@@ -59,10 +122,10 @@ Ref: FAM</description>
     
     <item>
       <title>10｜我們不該活於錯信</title>
-      <link>http://localhost:54027/path.to.books/posts/240429/</link>
+      <link>http://localhost:56613/path.to.books/posts/240429/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:54027/path.to.books/posts/240429/</guid>
+      <guid>http://localhost:56613/path.to.books/posts/240429/</guid>
       
       <description>我們不該活於錯信
 前陣子與大家分享到「個人主義」，在這個時代，我們追求快樂、追求自我掌握、也追求個人圓滿，這些都為了讓自己過得更「自由」。
@@ -74,10 +137,10 @@ Ref: FAM</description>
     
     <item>
       <title>09｜讀書無數，約等於閱人無數</title>
-      <link>http://localhost:54027/path.to.books/posts/240428/</link>
+      <link>http://localhost:56613/path.to.books/posts/240428/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:54027/path.to.books/posts/240428/</guid>
+      <guid>http://localhost:56613/path.to.books/posts/240428/</guid>
       
       <description>讀書無數，其實就約等於閱人無數
 這是我在 #閱讀的方法 這本書裡很喜歡的一個詮釋。
@@ -89,10 +152,10 @@ Ref: FAM</description>
     
     <item>
       <title>08｜讓閱讀變成一場與自己的約會</title>
-      <link>http://localhost:54027/path.to.books/posts/240427/</link>
+      <link>http://localhost:56613/path.to.books/posts/240427/</link>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:54027/path.to.books/posts/240427/</guid>
+      <guid>http://localhost:56613/path.to.books/posts/240427/</guid>
       
       <description>讓 #閱讀 變成一場與自己的約會
 曾有人問過我何以維持看書的習慣，我自己有一個很喜歡的方式是：讓「取得書籍」變成一場讓人期待的約會。
@@ -106,10 +169,10 @@ Ref: FAM</description>
     
     <item>
       <title>07｜關於紀律與自我掌握感</title>
-      <link>http://localhost:54027/path.to.books/posts/240426/</link>
+      <link>http://localhost:56613/path.to.books/posts/240426/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:54027/path.to.books/posts/240426/</guid>
+      <guid>http://localhost:56613/path.to.books/posts/240426/</guid>
       
       <description>關於 #紀律 帶給人的自我掌握感
 有紀律這件事情似乎是個正向的稱讚，投資有紀律可以帶來更多獲益、時間管理有紀律可以有更高的生產力、運動習慣有紀律可以維持更好的體能狀態。
@@ -124,10 +187,10 @@ Ref: FAM</description>
     
     <item>
       <title>06｜關於孤獨</title>
-      <link>http://localhost:54027/path.to.books/posts/240425/</link>
+      <link>http://localhost:56613/path.to.books/posts/240425/</link>
       <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:54027/path.to.books/posts/240425/</guid>
+      <guid>http://localhost:56613/path.to.books/posts/240425/</guid>
       
       <description>我們渴望認同，卻也享受孤獨帶來的權力
 在探索個人主義的主題時，我想起年初看到一篇談論「孤獨」的文章。
@@ -141,10 +204,10 @@ Ref: FAM</description>
     
     <item>
       <title>05｜關於個人主義時代</title>
-      <link>http://localhost:54027/path.to.books/posts/240424/</link>
+      <link>http://localhost:56613/path.to.books/posts/240424/</link>
       <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:54027/path.to.books/posts/240424/</guid>
+      <guid>http://localhost:56613/path.to.books/posts/240424/</guid>
       
       <description>現在是注重個體大於群體的個人主義時代。
 從二十一世紀以來，所有人突然對「快樂」大感興趣，根據這些準則，每個個體都是（也應該是）自由的、有謀略的、負責的、自主的，他能夠任意掌控自己的心理狀態，實驗自己的興趣，以及追求人人與生俱來的人生目標：獲得想要的幸福快樂。
@@ -157,10 +220,10 @@ Ref: FAM</description>
     
     <item>
       <title>04｜關於增強快樂經驗</title>
-      <link>http://localhost:54027/path.to.books/posts/240423/</link>
+      <link>http://localhost:56613/path.to.books/posts/240423/</link>
       <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:54027/path.to.books/posts/240423/</guid>
+      <guid>http://localhost:56613/path.to.books/posts/240423/</guid>
       
       <description>快樂的經驗可以增強或減弱，「表達」和「回顧」都是一個簡單的好方法
 如果說快樂、愉悅的情緒可以促進生產力，我們可以如何善用現有的快樂經驗？
@@ -172,10 +235,10 @@ Ref: FAM</description>
     
     <item>
       <title>02｜關於愉悅生產力</title>
-      <link>http://localhost:54027/path.to.books/posts/240422-1/</link>
+      <link>http://localhost:56613/path.to.books/posts/240422-1/</link>
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:54027/path.to.books/posts/240422-1/</guid>
+      <guid>http://localhost:56613/path.to.books/posts/240422-1/</guid>
       
       <description>#高效原力 書中愉悅生產力的觀點建立在「感覺愉悅 -&amp;gt; 產生能量 -&amp;gt; 激發生產力」的基礎之上。
 這其中包含了一個「抵銷假說」，也就是正向情緒可以抵銷壓力和其他負面情緒的影響。
@@ -188,10 +251,10 @@ Ref: FAM</description>
     
     <item>
       <title>03｜關於飲食提升生產力</title>
-      <link>http://localhost:54027/path.to.books/posts/240422-2/</link>
+      <link>http://localhost:56613/path.to.books/posts/240422-2/</link>
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:54027/path.to.books/posts/240422-2/</guid>
+      <guid>http://localhost:56613/path.to.books/posts/240422-2/</guid>
       
       <description>在追求工作生產力的同時，你想過從「飲食」出發嗎？
 任何的工作生產力方法，都必須建立在良好的身體狀態之下，好的身體素質，讓你有更多能量、以及更健康的心態能面對複雜的挑戰。
@@ -205,10 +268,10 @@ Ref: FAM</description>
     
     <item>
       <title>01｜關於第一座山：生產力</title>
-      <link>http://localhost:54027/path.to.books/posts/240421/</link>
+      <link>http://localhost:56613/path.to.books/posts/240421/</link>
       <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:54027/path.to.books/posts/240421/</guid>
+      <guid>http://localhost:56613/path.to.books/posts/240421/</guid>
       
       <description>最近因為 #高效原力 又開始重新關注「生產力」這個主題。
 喜歡這本書，是因為對於「愉悅心態激發生產力」很有共鳴。想起那些過去曾讓我進入心流、感到自我突破的大小專案，都是在保持心情愉悅的情況下完成的，才讀完第一章，就讓我對生產力有了一個新的假設： 「比起各種維持工作效能的方法，維持心情愉悅才是更重要的。」
