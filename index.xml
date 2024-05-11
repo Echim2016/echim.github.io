@@ -2,17 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on 書山有路</title>
-    <link>http://localhost:58536/path.to.books/</link>
+    <link>http://localhost:1313/path.to.books/</link>
     <description>Recent content in Home on 書山有路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hant</language>
-    <lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:58536/path.to.books/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/path.to.books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>22｜最妥當的求新捷徑就是「求反」</title>
+      <link>http://localhost:1313/path.to.books/posts/240511/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/path.to.books/posts/240511/</guid>
+      
+      <description>最妥當的求新捷徑就是「求反」
+想起以往和人分享「後現代建築」的時候，常會提到後現代對於現代主義的反動、對於傳統符號的諧仿、打破二元對立的慣性等描述，說的都是「反」，而少提了「新」。
+最近在「#現當代建築十五講」讀到對於「後現代」的詮釋，讓我對於「反」的背後有更深的認識。
+因為人們比任何時代都迷戀原本屬於上帝的「獨創性」，其途徑是求新，而推陳出新的時間週期過於緩慢，求新的途徑就簡化為「求異」，最為妥當的求新捷徑就是「求反」：於是現代被描述為反古代，而後現代就以反現代成就了自身。
+說到這裡，也不難想像為什麼許多新思潮運動擁有三個時髦前綴：post- / un- / super-，因為「反」而成就了「新」。</description>
+      
+    </item>
+    
     <item>
       <title>21｜把閱讀視為瞭望台</title>
-      <link>http://localhost:58536/path.to.books/posts/240510/</link>
+      <link>http://localhost:1313/path.to.books/posts/240510/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58536/path.to.books/posts/240510/</guid>
+      <guid>http://localhost:1313/path.to.books/posts/240510/</guid>
       
       <description>把閱讀視為瞭望台
 很多人把書作為一個知識體，但其實，書更像是一個節點，一個樞紐，一個超連結結構，能快速拓展你對於知識視野的邊界。
@@ -24,10 +39,10 @@
     
     <item>
       <title>20｜允許自己分心</title>
-      <link>http://localhost:58536/path.to.books/posts/240509/</link>
+      <link>http://localhost:1313/path.to.books/posts/240509/</link>
       <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58536/path.to.books/posts/240509/</guid>
+      <guid>http://localhost:1313/path.to.books/posts/240509/</guid>
       
       <description>允許自己分心
 在讀高效原力的時候，一個新的學習就是「允許自己分心」，人雖然不擅長多工處理，但是適當的分心，可以減少單一任務的疲乏，所以我們要做的，就是：將大部分時間放在單一任務，但是注意力不集中時，允許自己分心。
@@ -38,10 +53,10 @@
     
     <item>
       <title>19｜在沙克中心裡看見創新與古典的和諧</title>
-      <link>http://localhost:58536/path.to.books/posts/240508/</link>
+      <link>http://localhost:1313/path.to.books/posts/240508/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58536/path.to.books/posts/240508/</guid>
+      <guid>http://localhost:1313/path.to.books/posts/240508/</guid>
       
       <description>在沙克中心裡看見創新與古典的和諧
 在現代主義建築裡，大多建築師反對陳舊的裝飾與元素，你或許聽過「裝飾即罪惡」、「少即是多」的現代主義觀點。
@@ -56,10 +71,10 @@ Ref: FAM</description>
     
     <item>
       <title>18｜拖延的解方是原諒</title>
-      <link>http://localhost:58536/path.to.books/posts/240507/</link>
+      <link>http://localhost:1313/path.to.books/posts/240507/</link>
       <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58536/path.to.books/posts/240507/</guid>
+      <guid>http://localhost:1313/path.to.books/posts/240507/</guid>
       
       <description>拖延的解方是原諒
 心理學家 Michael Wohl 認為，拖延本身並不是問題所在，問題在於「自責」。
@@ -72,10 +87,10 @@ Ref: FAM</description>
     
     <item>
       <title>17｜佛洛伊德的幽默心理機制</title>
-      <link>http://localhost:58536/path.to.books/posts/240506/</link>
+      <link>http://localhost:1313/path.to.books/posts/240506/</link>
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58536/path.to.books/posts/240506/</guid>
+      <guid>http://localhost:1313/path.to.books/posts/240506/</guid>
       
       <description>佛洛伊德的幽默心理機制
 佛洛依德認為：幽默是一種心理生存機制，笑話則是能使遭障礙擋道的某個本能直覺（色欲或敵意）獲得滿足。意思是，笑話一如夢境，可以繞過威權，滿足願望。
@@ -85,10 +100,10 @@ Ref: FAM</description>
     
     <item>
       <title>16｜用「專案」來驅動閱讀習慣</title>
-      <link>http://localhost:58536/path.to.books/posts/240505/</link>
+      <link>http://localhost:1313/path.to.books/posts/240505/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58536/path.to.books/posts/240505/</guid>
+      <guid>http://localhost:1313/path.to.books/posts/240505/</guid>
       
       <description>用「專案」來驅動閱讀習慣
 培養閱讀習慣的方式和流派有百百種，我自己喜歡的策略是：「用專案來驅動閱讀」。
@@ -102,10 +117,10 @@ Ref: FAM</description>
     
     <item>
       <title>15｜旅行讓個人關注的焦點回到自己</title>
-      <link>http://localhost:58536/path.to.books/posts/240504/</link>
+      <link>http://localhost:1313/path.to.books/posts/240504/</link>
       <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58536/path.to.books/posts/240504/</guid>
+      <guid>http://localhost:1313/path.to.books/posts/240504/</guid>
       
       <description>旅行讓個人關注的焦點回到自己
 最近在不同書裡，總能看到不同作者對於「旅行」的詮釋，不管是跳脫日常以激發靈感、或者是親近自然來療癒身心，每種旅遊方式，都隱喻了你的個人設定，定義出你與旅行的關係。
@@ -117,10 +132,10 @@ Ref: FAM</description>
     
     <item>
       <title>14｜緩慢的交通是生氣活力城市的指標</title>
-      <link>http://localhost:58536/path.to.books/posts/240503/</link>
+      <link>http://localhost:1313/path.to.books/posts/240503/</link>
       <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58536/path.to.books/posts/240503/</guid>
+      <guid>http://localhost:1313/path.to.books/posts/240503/</guid>
       
       <description>緩慢的交通是生氣活力城市的指標
 你想過空間尺度如何影響人與人的互動嗎？在 Jan Gehl 的「建築之間」裡，我換上了全新的視角。
@@ -135,10 +150,10 @@ Ref: FAM</description>
     
     <item>
       <title>13｜建築是容納人生活的場所</title>
-      <link>http://localhost:58536/path.to.books/posts/240502/</link>
+      <link>http://localhost:1313/path.to.books/posts/240502/</link>
       <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58536/path.to.books/posts/240502/</guid>
+      <guid>http://localhost:1313/path.to.books/posts/240502/</guid>
       
       <description>建築是容納人生活的場所
 雨果說：建築是凝固的史詩，在宗教建築裡，人們透過繪畫、雕刻、文字、藝術、裝飾、造型來紀錄當代的思想，這世上很少有如此大的量體，能夠屹立上百年，同時記錄著時代的痕跡。
@@ -150,10 +165,10 @@ Ref: FAM</description>
     
     <item>
       <title>12｜拉圖雷特修道院</title>
-      <link>http://localhost:58536/path.to.books/posts/240501/</link>
+      <link>http://localhost:1313/path.to.books/posts/240501/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58536/path.to.books/posts/240501/</guid>
+      <guid>http://localhost:1313/path.to.books/posts/240501/</guid>
       
       <description>拉圖雷特修道院：在靜謐中安置一百個身軀與一百個心靈
 說到修道院，讓我想起知名建築師 #柯比意 在 1950 年代設計的建築：拉圖雷特修道院。
@@ -169,10 +184,10 @@ Ref: FAM</description>
     
     <item>
       <title>11｜修道主義的生活型態</title>
-      <link>http://localhost:58536/path.to.books/posts/240430/</link>
+      <link>http://localhost:1313/path.to.books/posts/240430/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58536/path.to.books/posts/240430/</guid>
+      <guid>http://localhost:1313/path.to.books/posts/240430/</guid>
       
       <description>修道主義兼具個人與群體的生活型態
 在個人主義為主流的當代，已經愈來愈難想像「#群體生活」的感覺。
@@ -185,10 +200,10 @@ Ref: FAM</description>
     
     <item>
       <title>10｜我們不該活於錯信</title>
-      <link>http://localhost:58536/path.to.books/posts/240429/</link>
+      <link>http://localhost:1313/path.to.books/posts/240429/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58536/path.to.books/posts/240429/</guid>
+      <guid>http://localhost:1313/path.to.books/posts/240429/</guid>
       
       <description>我們不該活於錯信
 前陣子與大家分享到「個人主義」，在這個時代，我們追求快樂、追求自我掌握、也追求個人圓滿，這些都為了讓自己過得更「自由」。
@@ -200,10 +215,10 @@ Ref: FAM</description>
     
     <item>
       <title>09｜讀書無數，約等於閱人無數</title>
-      <link>http://localhost:58536/path.to.books/posts/240428/</link>
+      <link>http://localhost:1313/path.to.books/posts/240428/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58536/path.to.books/posts/240428/</guid>
+      <guid>http://localhost:1313/path.to.books/posts/240428/</guid>
       
       <description>讀書無數，其實就約等於閱人無數
 這是我在 #閱讀的方法 這本書裡很喜歡的一個詮釋。
@@ -215,10 +230,10 @@ Ref: FAM</description>
     
     <item>
       <title>08｜讓閱讀變成一場與自己的約會</title>
-      <link>http://localhost:58536/path.to.books/posts/240427/</link>
+      <link>http://localhost:1313/path.to.books/posts/240427/</link>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58536/path.to.books/posts/240427/</guid>
+      <guid>http://localhost:1313/path.to.books/posts/240427/</guid>
       
       <description>讓 #閱讀 變成一場與自己的約會
 曾有人問過我何以維持看書的習慣，我自己有一個很喜歡的方式是：讓「取得書籍」變成一場讓人期待的約會。
@@ -232,10 +247,10 @@ Ref: FAM</description>
     
     <item>
       <title>07｜關於紀律與自我掌握感</title>
-      <link>http://localhost:58536/path.to.books/posts/240426/</link>
+      <link>http://localhost:1313/path.to.books/posts/240426/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58536/path.to.books/posts/240426/</guid>
+      <guid>http://localhost:1313/path.to.books/posts/240426/</guid>
       
       <description>關於 #紀律 帶給人的自我掌握感
 有紀律這件事情似乎是個正向的稱讚，投資有紀律可以帶來更多獲益、時間管理有紀律可以有更高的生產力、運動習慣有紀律可以維持更好的體能狀態。
@@ -250,10 +265,10 @@ Ref: FAM</description>
     
     <item>
       <title>06｜關於孤獨</title>
-      <link>http://localhost:58536/path.to.books/posts/240425/</link>
+      <link>http://localhost:1313/path.to.books/posts/240425/</link>
       <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58536/path.to.books/posts/240425/</guid>
+      <guid>http://localhost:1313/path.to.books/posts/240425/</guid>
       
       <description>我們渴望認同，卻也享受孤獨帶來的權力
 在探索個人主義的主題時，我想起年初看到一篇談論「孤獨」的文章。
@@ -267,10 +282,10 @@ Ref: FAM</description>
     
     <item>
       <title>05｜關於個人主義時代</title>
-      <link>http://localhost:58536/path.to.books/posts/240424/</link>
+      <link>http://localhost:1313/path.to.books/posts/240424/</link>
       <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58536/path.to.books/posts/240424/</guid>
+      <guid>http://localhost:1313/path.to.books/posts/240424/</guid>
       
       <description>現在是注重個體大於群體的個人主義時代。
 從二十一世紀以來，所有人突然對「快樂」大感興趣，根據這些準則，每個個體都是（也應該是）自由的、有謀略的、負責的、自主的，他能夠任意掌控自己的心理狀態，實驗自己的興趣，以及追求人人與生俱來的人生目標：獲得想要的幸福快樂。
@@ -283,10 +298,10 @@ Ref: FAM</description>
     
     <item>
       <title>04｜關於增強快樂經驗</title>
-      <link>http://localhost:58536/path.to.books/posts/240423/</link>
+      <link>http://localhost:1313/path.to.books/posts/240423/</link>
       <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58536/path.to.books/posts/240423/</guid>
+      <guid>http://localhost:1313/path.to.books/posts/240423/</guid>
       
       <description>快樂的經驗可以增強或減弱，「表達」和「回顧」都是一個簡單的好方法
 如果說快樂、愉悅的情緒可以促進生產力，我們可以如何善用現有的快樂經驗？
@@ -298,10 +313,10 @@ Ref: FAM</description>
     
     <item>
       <title>02｜關於愉悅生產力</title>
-      <link>http://localhost:58536/path.to.books/posts/240422-1/</link>
+      <link>http://localhost:1313/path.to.books/posts/240422-1/</link>
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58536/path.to.books/posts/240422-1/</guid>
+      <guid>http://localhost:1313/path.to.books/posts/240422-1/</guid>
       
       <description>#高效原力 書中愉悅生產力的觀點建立在「感覺愉悅 -&amp;gt; 產生能量 -&amp;gt; 激發生產力」的基礎之上。
 這其中包含了一個「抵銷假說」，也就是正向情緒可以抵銷壓力和其他負面情緒的影響。
@@ -314,10 +329,10 @@ Ref: FAM</description>
     
     <item>
       <title>03｜關於飲食提升生產力</title>
-      <link>http://localhost:58536/path.to.books/posts/240422-2/</link>
+      <link>http://localhost:1313/path.to.books/posts/240422-2/</link>
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58536/path.to.books/posts/240422-2/</guid>
+      <guid>http://localhost:1313/path.to.books/posts/240422-2/</guid>
       
       <description>在追求工作生產力的同時，你想過從「飲食」出發嗎？
 任何的工作生產力方法，都必須建立在良好的身體狀態之下，好的身體素質，讓你有更多能量、以及更健康的心態能面對複雜的挑戰。
@@ -331,10 +346,10 @@ Ref: FAM</description>
     
     <item>
       <title>01｜關於第一座山：生產力</title>
-      <link>http://localhost:58536/path.to.books/posts/240421/</link>
+      <link>http://localhost:1313/path.to.books/posts/240421/</link>
       <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58536/path.to.books/posts/240421/</guid>
+      <guid>http://localhost:1313/path.to.books/posts/240421/</guid>
       
       <description>最近因為 #高效原力 又開始重新關注「生產力」這個主題。
 喜歡這本書，是因為對於「愉悅心態激發生產力」很有共鳴。想起那些過去曾讓我進入心流、感到自我突破的大小專案，都是在保持心情愉悅的情況下完成的，才讀完第一章，就讓我對生產力有了一個新的假設： 「比起各種維持工作效能的方法，維持心情愉悅才是更重要的。」
@@ -345,10 +360,10 @@ Ref: FAM</description>
     
     <item>
       <title>About</title>
-      <link>http://localhost:58536/path.to.books/pages/about/</link>
+      <link>http://localhost:1313/path.to.books/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:58536/path.to.books/pages/about/</guid>
+      <guid>http://localhost:1313/path.to.books/pages/about/</guid>
       
       <description>只做嚮導，不做大師 🧑‍💻 翊勤 / iOS Developer / @echim2021 📚 閱讀筆記｜💡觀點分享｜📈個人成長 ⛰️ 近期書山： 生產力、個人主義、城市建築 書山有路，這裡找： Threads｜Instagram｜ X </description>
       

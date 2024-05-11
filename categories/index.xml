@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 書山有路</title>
-    <link>http://localhost:58536/path.to.books/categories/</link>
+    <link>http://localhost:1313/path.to.books/categories/</link>
     <description>Recent content in Categories on 書山有路</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-Hant</language><atom:link href="http://localhost:58536/path.to.books/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-Hant</language><atom:link href="http://localhost:1313/path.to.books/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
