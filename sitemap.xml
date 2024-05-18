@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/path.to.books/posts/240517/</loc>
-    <lastmod>2024-05-17T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/path.to.books/posts/240518/</loc>
+    <lastmod>2024-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/path.to.books/</loc>
-    <lastmod>2024-05-17T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/path.to.books/posts/</loc>
+    <lastmod>2024-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/path.to.books/posts/240517/</loc>
     <lastmod>2024-05-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/path.to.books/posts/240516/</loc>
